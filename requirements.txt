@@ -1,0 +1,6 @@
+discord.py
+Flask
+gTTS
+requests
+pyfiglet
+Pillow
